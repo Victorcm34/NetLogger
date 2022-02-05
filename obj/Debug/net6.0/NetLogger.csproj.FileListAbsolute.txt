@@ -44,3 +44,4 @@ C:\Users\Victo\Repos\NetLogger\obj\Debug\net6.0\NetLogger.dll
 C:\Users\Victo\Repos\NetLogger\obj\Debug\net6.0\ref\NetLogger.dll
 C:\Users\Victo\Repos\NetLogger\obj\Debug\net6.0\NetLogger.pdb
 C:\Users\Victo\Repos\NetLogger\obj\Debug\net6.0\NetLogger.genruntimeconfig.cache
+C:\Users\Victo\Repos\NetLogger\bin\Debug\net6.0\RabbitMQ.Client.dll
